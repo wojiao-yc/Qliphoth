@@ -21,25 +21,20 @@ Experience the game directly in your browser:
 ---
 
 ## 🖼️ Game Poster
-
-> Insert your promotional poster here  
-> Example (replace with actual path):  
-> `![Game Poster](images/poster.jpg)`
+> `![Game Poster](images/poster.png)`
 
 ---
 
 ## 📸 In-Game Screenshots
 
-> Insert 3 gameplay screenshots in the spaces below. Example paths provided.
-
 ### Screenshot 1  
-`![Gameplay Screenshot 1](images/screenshot1.jpg)`
+`![Gameplay Screenshot 1](images/screenshot1.png)`
 
 ### Screenshot 2  
-`![Gameplay Screenshot 2](images/screenshot2.jpg)`
+`![Gameplay Screenshot 2](images/screenshot2.png)`
 
 ### Screenshot 3  
-`![Gameplay Screenshot 3](images/screenshot3.jpg)`
+`![Gameplay Screenshot 3](images/screenshot3.png)`
 
 ---
 
