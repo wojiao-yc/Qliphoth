@@ -30,15 +30,15 @@ Experience the game directly in your browser:
 
 ### Screenshot 1  
 <!--  -->
-<img src="images/images/screenshot1.png" alt="screenshot1" style="max-width: 60%; height: auto;"/>  
+<img src="images/screenshot1.png" alt="screenshot1" style="max-width: 50%; height: auto;"/>  
 
 ### Screenshot 2  
 <!--  -->
-<img src="images/images/screenshot2.png" alt="screenshot2" style="max-width: 60%; height: auto;"/>  
+<img src="images/screenshot2.png" alt="screenshot2" style="max-width: 50%; height: auto;"/>  
 
 ### Screenshot 3  
 <!--  -->
-<img src="images/screenshot3.png" alt="screenshot3" style="max-width: 60%; height: auto;"/>  
+<img src="images/screenshot3.png" alt="screenshot3" style="max-width: 50%; height: auto;"/>  
 
 ---
 
