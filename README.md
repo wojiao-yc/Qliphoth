@@ -1,4 +1,4 @@
-# 🌟 Roguelike Adventure Game
+# 🌟 Qliphoth
 
 Welcome to our **Roguelike Game**, developed during the **Singapore Summer School** by a team of four passionate students:
 
