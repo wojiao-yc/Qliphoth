@@ -22,20 +22,23 @@ Experience the game directly in your browser:
 
 ## 🖼️ Game Poster
 <!--  -->
-<img src="images/poster.png" alt="poster" style="max-width: 90%; height: auto;"/>  
+<img src="images/poster.png" alt="poster" style="max-width: 60%; height: auto;"/>  
 
 ---
 
 ## 📸 In-Game Screenshots
 
 ### Screenshot 1  
-`![Gameplay Screenshot 1](images/screenshot1.png)`
+<!--  -->
+<img src="images/images/screenshot1.png" alt="screenshot1" style="max-width: 60%; height: auto;"/>  
 
 ### Screenshot 2  
-`![Gameplay Screenshot 2](images/screenshot2.png)`
+<!--  -->
+<img src="images/images/screenshot2.png" alt="screenshot2" style="max-width: 60%; height: auto;"/>  
 
 ### Screenshot 3  
-`![Gameplay Screenshot 3](images/screenshot3.png)`
+<!--  -->
+<img src="images/screenshot3.png" alt="screenshot3" style="max-width: 60%; height: auto;"/>  
 
 ---
 
