@@ -21,7 +21,8 @@ Experience the game directly in your browser:
 ---
 
 ## 🖼️ Game Poster
-> `![Game Poster](images/poster.png)`
+<!--  -->
+<img src="images/poster.png" alt="poster" style="max-width: 90%; height: auto;"/>  
 
 ---
 
